@@ -1,0 +1,6 @@
+-cp src
+-D doc-gen
+--macro include('rude')
+--no-output
+--xml bin/types.xml
+--hl dummy

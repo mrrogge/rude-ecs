@@ -1,0 +1,5 @@
+-cp src
+-cp example
+-D analyzer-optimize
+-main Example
+--interp

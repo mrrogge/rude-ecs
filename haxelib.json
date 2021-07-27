@@ -1,0 +1,12 @@
+{
+    "name": "rude-ecs",
+    "url" : "https://github.com/mrrogge/rude-ecs/",
+    "license": "MIT",
+    "tags": ["ecs"],
+    "description": "A minimal ECS framework",
+    "version": "0.1.1",
+    "classPath": "src/",
+    "releasenote": "Initial release",
+    "contributors": ["mrrogge"],
+    "dependencies": {}
+  }
